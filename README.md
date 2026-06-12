@@ -39,5 +39,5 @@ You will submit:
 - Technical documentation
 
 <p align="center">
-  <img src="https://www.nu.edu/wp-content/uploads/2025/11/capstonem.png?w=1024&resize=1024%2C819" width="700" height="250" title="hover text">
+  <img src="https://www.nu.edu/wp-content/uploads/2025/11/capstonem.png?w=1024&resize=1024%2C819" width="550" height="250" title="hover text">
 </p>
