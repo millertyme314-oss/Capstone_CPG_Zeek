@@ -37,3 +37,7 @@ You will submit:
 - Debugging unfamiliar codebases
 
 - Technical documentation
+
+<p align="center">
+  <img src="https://www.nu.edu/wp-content/uploads/2025/11/capstonem.png?w=1024&resize=1024%2C819" width="800" title="hover text">
+</p>
