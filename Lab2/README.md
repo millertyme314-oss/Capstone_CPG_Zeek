@@ -1,4 +1,4 @@
-# Lab 1 - EC2 Startup Script (User Data Automation) Objective
+# Lab 2 - EC2 Startup Script (User Data Automation) Objective
 
 ## Description
 This lab introduces Linux automation and cloud initialization by writing a startup script that  configures an EC2 instance to host a front-facing static website. 
