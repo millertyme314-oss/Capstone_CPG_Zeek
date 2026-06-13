@@ -2,7 +2,7 @@
 
 # CPG/Foundations_Armageddon overview
 
-## This multi-part assignemnt is designed to strengthen your practical skills in:
+## This multi-part assignment is designed to strengthen your practical skills in:
 
 - Collaborative software development using Git CLI and GitHub
 
